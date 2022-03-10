@@ -14,5 +14,3 @@ func scan(ip string, port int) bool {
 	_, _ = ip, port
 	return rand.Intn(2) == 0
 }
-
-//main function
