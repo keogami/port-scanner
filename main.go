@@ -12,9 +12,6 @@ func main() {
 		if IsOpen {
 			open = append(open, i)
 			fmt.Printf("Open ports: %d \n", open)
-			// for j := range openPorts {
-			// 	fmt.Printf()
-			// }
 		}
 	}
 
