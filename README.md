@@ -1,2 +1,2 @@
 # port-scanner
-A port scanner example for teaching purposes
+A port scanner example for learning purposes
